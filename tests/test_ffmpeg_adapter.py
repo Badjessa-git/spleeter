@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf8
 
-""" Unit testing for audio adapter. """
+"""Unit testing for audio adapter."""
 
 __email__ = "spleeter@deezer.com"
 __author__ = "Deezer Research"
